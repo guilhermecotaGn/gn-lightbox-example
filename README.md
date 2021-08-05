@@ -31,8 +31,8 @@ O lightbox se comunica com a API da Gerencianet através de um back-end que deve
 
 ## **Instalação da loja de demonstração**
 Clone este repositório e execute o seguinte comando dentro do diretório `./backend`, para instalar as dependências.
-```
-$ composer install
+```cmd
+composer install
 ```
 
 
