@@ -59,7 +59,7 @@ Este script você [obtêm em nossa documentação](https://dev.gerencianet.com.b
 <script type='text/javascript'>var s=document.createElement('script');s.type='text/javascript';var v=parseInt(Math.random()*1000000);s.src='https://sandbox.gerencianet.com.br/v1/cdn/lightbox/identificador_da_conta/'+v;s.async=false;s.id='identificador_da_conta';if(!document.getElementById('identificador_da_conta')){document.getElementsByTagName('head')[0].appendChild(s);};$gn={validForm:true,processed:false,done:{},ready:function(fn){$gn.done=fn;}};</script>
 ```
 
-Tendo o script gerado, você deve inserí-lo na linha 30 do arquivo `./frontend/index.html`.
+Tendo o script gerado, você deve inserí-lo na **linha 30** do arquivo `./frontend/index.html`.
 
 
 ## **Documentação Adicional**
