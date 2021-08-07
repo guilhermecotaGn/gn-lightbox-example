@@ -59,6 +59,8 @@ Este script você [obtêm em nossa documentação](https://dev.gerencianet.com.b
 <script type='text/javascript'>var s=document.createElement('script');s.type='text/javascript';var v=parseInt(Math.random()*1000000);s.src='https://sandbox.gerencianet.com.br/v1/cdn/lightbox/identificador_da_conta/'+v;s.async=false;s.id='identificador_da_conta';if(!document.getElementById('identificador_da_conta')){document.getElementsByTagName('head')[0].appendChild(s);};$gn={validForm:true,processed:false,done:{},ready:function(fn){$gn.done=fn;}};</script>
 ```
 
+:warning: Atente-se para utilizar o script gerado para o ambiente correto que deseja (Produção ou Homologação).
+
 Tendo o script gerado, você deve inserí-lo na **linha 30** do arquivo `./frontend/index.html`.
 
 
