@@ -8,7 +8,7 @@ var CODE = '';
 
 const cart = [];
 
-const produtcs = $.getJSON("./backend/db/products.json");
+const produtcs = $.getJSON("../backend/db/products.json");
 
 window.addEventListener("load", function (event) {
 
